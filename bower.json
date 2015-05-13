@@ -1,5 +1,5 @@
 {
-    "name": "eventEmitter",
+    "name": "wolfy87-eventemitter",
     "description": "Event based JavaScript for the browser",
     "version": "4.2.11",
     "main": [
